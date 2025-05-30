@@ -28,6 +28,8 @@ Here are some of the technologies and tools I'm most comfortable with and experi
   <img src="https://img.icons8.com/color/60/000000/flutter.png" alt="Flutter" title="Flutter"/>
   <img src="https://img.icons8.com/color/60/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
   <img src="https://img.icons8.com/color/60/000000/docker.png" alt="Docker" title="Docker"/>
+  <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" title="Azure" width="60"/>
+  <img src="https://img.icons8.com/?size=100&id=jXuZmZPUKCPS&format=png&color=000000" alt="Power Apps" title="Power Apps" width="60"/>
   <img src="https://img.icons8.com/color/60/000000/linux.png" alt="Linux" title="Linux"/>
   <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/color/60/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/>
@@ -46,7 +48,7 @@ Here are some of the technologies and tools I'm most comfortable with and experi
 * **Cloud & DevOps:** AWS, Docker, Linux, Git.
 * **Artificial Intelligence (LLMs & Platforms):** Practical experience in using and applying models like ChatGPT, Claude, Google AI Studio, among others, for automation and optimization.
 * **Business Intelligence & Visualization:** Design and implementation of BI solutions, including tools like Power BI.
-* **Methodologies & Key Skills:** Scrum, Agile, Design Thinking, Project Management, Problem Solving (CPS), **Software Engineer**, **QA Testing**. Always focused on delivering value and continuous improvement.
+* **Methodologies & Key Skills:** Scrum, Agile, Design Thinking, Project Management, Problem Solving (CPS), Software Engineer,QA Testing. Always focused on delivering value and continuous improvement.
 
 ---
 
