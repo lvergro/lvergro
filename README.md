@@ -47,7 +47,7 @@ Here are some of the technologies and tools I'm most comfortable with and experi
 
 **My expertise extends to:**
 
-* **Programming Languages:** Python, JavaScript, PHP, Dart.
+* **Programming Languages:** Python, TypeScript, JavaScript, PHP, Dart.
 * **Mobile/Cross-Platform Development:** Flutter.
 * **Databases:** SQL Server, MySQL, MongoDB.
 * **Cloud & DevOps:** AWS, Docker, Linux, Git.
