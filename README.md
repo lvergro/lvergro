@@ -37,16 +37,18 @@ Here are some of the technologies and tools I'm most comfortable with and experi
   <img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
   <img src="https://img.icons8.com/color/60/000000/power-bi.png" alt="Power BI" title="Power BI"/>
 
-  <br/>
+  <br/><br/>
 
   <!-- AI / LLM / Agentic Coding Tools -->
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-color.png" width="60" alt="OpenAI" title="OpenAI"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="60" alt="Claude" title="Claude"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claudecode-color.png" width="60" alt="Claude Code" title="Claude Code"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="60" alt="Google Gemini" title="Google Gemini"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/antigravity-color.png" width="60" alt="Google Antigravity" title="Google Antigravity"/>
-</p>
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" width="60" alt="OpenAI" title="OpenAI"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude-color.png" width="60" alt="Claude" title="Claude"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="60" alt="Google Gemini" title="Google Gemini"/>
 
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" title="Claude Code"/>
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" title="Google Antigravity"/>
+</p>
 **My expertise extends to:**
 
 * **Programming Languages:** Python, JavaScript, PHP, Dart.
