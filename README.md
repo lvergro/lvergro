@@ -49,7 +49,7 @@ Here are some of the technologies and tools I'm most comfortable with and experi
 
 * **Programming Languages:** Python, TypeScript, JavaScript, PHP, Dart.
 * **Mobile/Cross-Platform Development:** Flutter.
-* **Databases:** SQL Server, MySQL, MongoDB.
+* **Databases:** SQL Server, MySQL, MongoDB, PostgresSQL
 * **Cloud & DevOps:** AWS, Docker, Linux, Git.
 * **Artificial Intelligence (LLMs & Platforms):** Practical experience in using and applying models like ChatGPT, Claude, Google AI Studio, among others, for automation and optimization.
 * **Business Intelligence & Visualization:** Design and implementation of BI solutions, including tools like Power BI.
