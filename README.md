@@ -36,8 +36,12 @@ Here are some of the technologies and tools I'm most comfortable with and experi
   <img src="https://img.icons8.com/color/60/000000/mysql.png" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" alt="AI" title="Artificial Intelligence"/>
-
   <img src="https://img.icons8.com/color/60/000000/power-bi.png" alt="Power BI" title="Power BI"/>
+
+  <!-- AI Coding & Agentic Tools -->
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode.svg" width="60" alt="Claude Code" title="Claude Code"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" width="60" alt="Google Gemini" title="Google Gemini"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" width="60" alt="Google Antigravity" title="Google Antigravity"/>
 </p>
 
 **My expertise extends to:**
