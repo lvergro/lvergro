@@ -44,10 +44,7 @@ Here are some of the technologies and tools I'm most comfortable with and experi
   <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini-color.png" height="50" alt="Google Gemini" title="Google Gemini"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" height="28" alt="Claude Code" title="Claude Code"/>
-  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" height="28" alt="Google Antigravity" title="Google Antigravity"/>
-</p>
+
 **My expertise extends to:**
 
 * **Programming Languages:** Python, JavaScript, PHP, Dart.
