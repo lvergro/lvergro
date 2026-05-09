@@ -28,20 +28,23 @@ Here are some of the technologies and tools I'm most comfortable with and experi
   <img src="https://img.icons8.com/color/60/000000/flutter.png" alt="Flutter" title="Flutter"/>
   <img src="https://img.icons8.com/color/60/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
   <img src="https://img.icons8.com/color/60/000000/docker.png" alt="Docker" title="Docker"/>
-  <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" title="Azure" width="60"/>
-  <img src="https://img.icons8.com/?size=100&id=jXuZmZPUKCPS&format=png&color=000000" alt="Power Apps" title="Power Apps" width="60"/>
+  <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" width="60" alt="Azure" title="Azure"/>
+  <img src="https://img.icons8.com/?size=100&id=jXuZmZPUKCPS&format=png&color=000000" width="60" alt="Power Apps" title="Power Apps"/>
   <img src="https://img.icons8.com/color/60/000000/linux.png" alt="Linux" title="Linux"/>
   <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/color/60/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/>
   <img src="https://img.icons8.com/color/60/000000/mysql.png" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" alt="AI" title="Artificial Intelligence"/>
   <img src="https://img.icons8.com/color/60/000000/power-bi.png" alt="Power BI" title="Power BI"/>
 
-  <!-- AI Coding & Agentic Tools -->
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode.svg" width="60" alt="Claude Code" title="Claude Code"/>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" width="60" alt="Google Gemini" title="Google Gemini"/>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" width="60" alt="Google Antigravity" title="Google Antigravity"/>
+  <br/>
+
+  <!-- AI / LLM / Agentic Coding Tools -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-color.png" width="60" alt="OpenAI" title="OpenAI"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="60" alt="Claude" title="Claude"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claudecode-color.png" width="60" alt="Claude Code" title="Claude Code"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="60" alt="Google Gemini" title="Google Gemini"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/antigravity-color.png" width="60" alt="Google Antigravity" title="Google Antigravity"/>
 </p>
 
 **My expertise extends to:**
